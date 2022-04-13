@@ -1,0 +1,80 @@
+---
+title: "Assignments"
+author: "Bob McQuaid"
+date: ""
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Web Scraping in R
+
+* [Easily Harvest (Scrape) Web Pages * rvest](https://rvest.tidyverse.org/)
+* [A Forward-Pipe Operator for R * magrittr](https://magrittr.tidyverse.org/)
+* [The Comprehensive R Archive Network](https://cran.r-project.org/)
+* [Simple, Consistent Wrappers for Common String Operations * stringr](https://stringr.tidyverse.org/)
+* [14 Strings | R for Data Science](https://r4ds.had.co.nz/strings.html)
+* [Tutorial: Web Scraping in R with rvest - Dataquest](https://www.dataquest.io/blog/web-scraping-in-r-rvest/)
+* [Practical Introduction to Web Scraping in R | R-bloggers](https://www.r-bloggers.com/2019/04/practical-introduction-to-web-scraping-in-r/)
+* [Web Scraping in R | Applied R Code](http://applied-r.com/web-scrapping/#)
+* [Beginner's Guide on Web Scraping in R (using rvest) with example](https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/)
+* [Tidy web scraping in R - Tutorial and resources | by Keith McNulty | Towards Data Science](https://towardsdatascience.com/tidy-web-scraping-in-r-tutorial-and-resources-ac9f72b4fe47)
+* [web scraping in r - Google Search](https://www.google.com/search?q=web+scraping+in+r&rlz=1C1SQJL_enUS903US903&sxsrf=APq-WBuxfppHjZ44a7Yhi-l1366OB7WaMQ:1649266230544&ei=Ns5NYrO_IMufkPIP58ycqAw&start=10&sa=N&ved=2ahUKEwizsr6--__2AhXLD0QIHWcmB8UQ8NMDegQIARBK&cshid=1649266362792008&biw=1920&bih=1009&dpr=1)
+
+
+## Text Analytics
+
+* [Text Mining is Fun (with R)! | by Susan Li | Medium](https://actsusanli.medium.com/text-mining-is-fun-with-r-35e537b12002)
+* [1 The tidy text format | Text Mining with R](https://www.tidytextmining.com/tidytext.html)
+* [Text Mining and Sentiment Analysis: Analysis with R - Simple Talk](https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/text-mining-and-sentiment-analysis-with-r/)
+* [Basics of Text Mining in R - Bag of Words](http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html)
+* [Text Analytics and Predictions with R Essential Training](https://rstudio-pubs-static.s3.amazonaws.com/588350_44eaace5507a45d2944549944559da1f.html)
+* [text analytics in r - Google Search](https://www.google.com/search?q=text+analytics+in+r&rlz=1C1SQJL_enUS903US903&oq=&aqs=chrome.0.35i39i362l8.22668j0j7&sourceid=chrome&ie=UTF-8)
+
+
+## RegEx
+
+* [ziishaned/learn-regex: Learn regex the easy way](https://github.com/ziishaned/learn-regex)
+* [Regular%20expressions%20quick%20reference.pdf](https://download.microsoft.com/download/D/2/4/D240EBF6-A9BA-4E4F-A63F-AEB6DA0B921C/Regular%20expressions%20quick%20reference.pdf)
+* [regex101: build, test, and debug regex](https://regex101.com/r/xc9GkU/1)
+
+
+## R Markdown
+
+* [Introduction](https://rmarkdown.rstudio.com/lesson-1.html)
+* [Gallery](https://rmarkdown.rstudio.com/gallery)
+* [The Comprehensive R Archive Network](https://cran.r-project.org/)
+* [rmarkdown-cheatsheet.pdf](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+* [Dynamic Documents for R * rmarkdown](https://rmarkdown.rstudio.com/docs/)
+* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+* [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+* [Options - Chunk options and package options - Yihui Xie](https://yihui.org/knitr/options/)
+* [Home | Bookdown](https://bookdown.org/)
+
+
+## RMarkdown Tables
+
+* [CRAN - Package tables](https://cran.r-project.org/web/packages/tables/index.html)
+* [10.1 The function knitr::kable() | R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/kable.html)
+* [Create Awesome HTML Table with knitr::kable and kableExtra](https://haozhu233.github.io/kableExtra/awesome_table_in_html.html#grouped_columns__rows)
+* [KableExtra Tutorial](https://rstudio-pubs-static.s3.amazonaws.com/444395_76727eaf9c774fa8bf932bed16500a00.html)
+* [Create Awesome HTML Table with knitr::kable and kableExtra](https://haozhu233.github.io/kableExtra/awesome_table_in_html.html)
+* [Use kableExtra with formattable](http://haozhu233.github.io/kableExtra/use_kableExtra_with_formattable.html)
+
+
+## GGPLOT2
+
+* [The Comprehensive R Archive Network](https://cran.r-project.org/)
+* [Data visualization with R and ggplot2 | the R Graph Gallery](https://r-graph-gallery.com/ggplot2-package.html)
+* [Create Elegant Data Visualisations Using the Grammar of Graphics * ggplot2](https://ggplot2.tidyverse.org/)
+* [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
+* [ggplot2 - Essentials - Easy Guides - Wiki - STHDA](http://www.sthda.com/english/wiki/ggplot2-essentials)
+* [Chapter 8 ggplot2 | Introduction to Data Science](https://rafalab.github.io/dsbook/ggplot2.html)
+* [3 Data visualisation | R for Data Science](https://r4ds.had.co.nz/data-visualisation.html)
+* [30 ggplot basics | The Epidemiologist R Handbook](https://epirhandbook.com/en/ggplot-basics.html)
+* [Welcome | ggplot2](https://ggplot2-book.org/)
+* [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+
